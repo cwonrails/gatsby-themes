@@ -3,3 +3,5 @@ public
 package-lock.json
 _notes.md
 Users
+.DS_Store
+node_modules
